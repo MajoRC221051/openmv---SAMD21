@@ -16,6 +16,8 @@
   - [Contributing to the project](#contributing-to-the-project)
     + [Contribution guidelines](#contribution-guidelines)
     
+
+Para quetzal2 :v
 ## Overview
 
 The OpenMV project brings machine vision to beginners with a user-friendly, open-source platform. OpenMV cameras are programmable in Python3 and feature advanced AI capabilities, including support for TensorFlow, ST Edge AI, and NPU acceleration through ARM Ethos-U55 and ST Neural-ART. The firmware includes a rich image image processing library, such as image filtering, feature detection, color tracking, QR and barcode decoding, AprilTag recognition, GIF and MJPEG recording and streaming, and much more.
