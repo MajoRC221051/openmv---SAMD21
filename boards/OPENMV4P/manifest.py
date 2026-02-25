@@ -6,7 +6,6 @@ require("onewire")
 require("ds18x20")
 require("dht")
 require("neopixel")
-freeze ("$(OMV_LIB_DIR)/", "boot.py")
 freeze ("$(OMV_LIB_DIR)/", "modbus.py")
 freeze ("$(OMV_LIB_DIR)/", "pid.py")
 freeze ("$(OMV_LIB_DIR)/", "bno055.py")
@@ -15,6 +14,9 @@ freeze ("$(OMV_LIB_DIR)/", "tb6612.py")
 freeze ("$(OMV_LIB_DIR)/", "vl53l1x.py")
 freeze ("$(OMV_LIB_DIR)/", "machine.py")
 freeze ("$(OMV_LIB_DIR)/", "display.py")
+
+# Quetzal2
+freeze ("$(OMV_LIB_DIR)/", "boot.py")
 # freeze ("$(OMV_LIB_DIR)/", "ia.py")
 
 # Networking
