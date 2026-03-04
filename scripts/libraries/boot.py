@@ -1,4 +1,4 @@
-# March 3rd, 2026 - PAYLOAD-MILO TEAN
+# March 3rd, 2026 - PAYLOAD-MILO TEAM
 
 import sensor
 import time
